@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # dadjokes
 
 > Listing dad jokes
@@ -20,3 +21,7 @@ $ yarn generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+=======
+# Dadjokes-app
+nuxt app to curate corny dad jokes from icanhazdadjoke api
+>>>>>>> 18468280c637493679e73a145aa886a0d6a9f4bb
